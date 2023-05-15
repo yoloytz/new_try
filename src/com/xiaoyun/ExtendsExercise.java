@@ -12,6 +12,7 @@ public class ExtendsExercise {
 //        System.out.println(pc.getDetails());
         System.out.println("PC的信息为"   +  pc.Text1());
         System.out.println("notePad的信息为"   +  notePad.Text2());
+        System.out.println("正在学习git的使用及其提交");
 
     }
 
