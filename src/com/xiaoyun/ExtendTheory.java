@@ -7,6 +7,7 @@ public class ExtendTheory {
         son y = new son();
         System.out.println(y.name);
         System.out.println(y.scy);
+        System.out.println("pull尝试");
 
     }
 }
